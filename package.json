@@ -1,0 +1,45 @@
+{
+  "name": "arr-search-ternary",
+  "version": "1.0.0",
+  "description": "Ternary search algorithms for both continuous and discrete data. It includes functions for finding the minimum and maximum of unimodal functions, searching in sorted and rotated arrays, and detecting peak elements in unimodal sequences. Ideal for optimization problems, competitive programming, and mathematical computations.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AnshSinghSonkhia/arr-search-ternary.git"
+  },
+  "keywords": [
+    "ternary",
+    "search",
+    "optimization",
+    "unimodel",
+    "function",
+    "search",
+    "algorithm",
+    "binary",
+    "search",
+    "sorted",
+    "array",
+    "search",
+    "rotated",
+    "array",
+    "peak",
+    "element",
+    "math",
+    "competitive",
+    "programming",
+    "numerical",
+    "methods"
+  ],
+  "author": "Ansh Singh Sonkhia",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/AnshSinghSonkhia/arr-search-ternary/issues"
+  },
+  "homepage": "https://github.com/AnshSinghSonkhia/arr-search-ternary#readme",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}

@@ -1,13 +1,21 @@
-const ternarySearchMin = require("./src/ternarySearchMin");
-const ternarySearchMax = require("./src/ternarySearchMax");
-const ternarySearchArray = require("./src/ternarySearchArray");
-const ternarySearchRotatedArray = require("./src/ternarySearchRotatedArray");
-const ternarySearchDiscrete = require("./src/ternarySearchDiscrete");
+const array = require("./src/array");
+const continuous = require("./src/continuous");
+const discrete = require("./src/discrete");
+const findPeakElement = require("./src/findPeakElement");
+const isUnimodal = require("./src/isUnimodal");
+const max = require("./src/max");
+const min = require("./src/min");
+const rotatedArray = require("./src/rotatedArray");
+const search2d = require("./src/search2d");
 
 module.exports = {
-    ternarySearchMin,
-    ternarySearchMax,
-    ternarySearchArray,
-    ternarySearchRotatedArray,
-    ternarySearchDiscrete
+    array,
+    continuous,
+    discrete,
+    findPeakElement,
+    isUnimodal,
+    max,
+    min,
+    rotatedArray,
+    search2d
 };
