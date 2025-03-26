@@ -2,8 +2,7 @@
 
 Ternary search algorithms for both continuous and discrete data. It includes functions for finding the minimum and maximum of unimodal functions, searching in sorted and rotated arrays, and detecting peak elements in unimodal sequences. Ideal for optimization problems, competitive programming, and mathematical computations.
 
-
-<code><img height="30" src="https://img.shields.io/badge/NPM-111111?style=for-the-badge&logo=npm&logoColor=#c63635"></code>  <code><img height="30" src="https://img.shields.io/badge/JavaScript-111111?style=for-the-badge&logo=javascript&logoColor=F7DF1E"></code>
+[![npm](https://img.shields.io/npm/v/arr-search-ternary.svg)](https://www.npmjs.com/package/arr-search-ternary)  [![License](https://img.shields.io/npm/l/arr-search-ternary.svg)](LICENSE)  
 
 
 ## Installation
